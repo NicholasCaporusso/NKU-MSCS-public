@@ -4,14 +4,7 @@ Welcome to NKU's Master's Program in Computer Science (MSCS) repository. This re
 
 
 
-## Who is the MSCS for?
-
-- Students continuing their Computer Science education
-- Individuals from non-Computer Science backgrounds
-- International students
-  
-
-
+![structure.png](./assets/structure.png)
 
 ## Resources
 
